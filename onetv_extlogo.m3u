@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kid" tvg-id="" tvg-logo="https://www.dropbox.com/s/ig8uv4ca2are5q1/BabyTV.png?dl=1",Baby TV
+http://192.168.10.1:4022/udp/225.1.2.146:30120
+#EXTINF:-1 group-title="Kid" tvg-id="" tvg-logo="https://www.dropbox.com/s/vbir96qx8yswsvb/CBeebies.png?dl=1",cBeeBies
+http://192.168.10.1:4022/udp/225.1.1.134:30120
+#EXTINF:-1 group-title="Kid" tvg-id="" tvg-logo="https://www.dropbox.com/s/37ncy2bcsqwo8ca/animax-logo-logo-icon-png-svg.png?dl=1",Animax
+http://192.168.10.1:4022/udp/225.1.1.135:30120
+#EXTINF:-1 group-title="Kid" tvg-id="" tvg-logo="https://www.dropbox.com/s/uqmqzfg57yji3pn/dreamworks.png?dl=1",DreamWorks
+http://192.168.10.1:4022/udp/225.1.1.136:30120
+#EXTINF:-1 group-title="Kid" tvg-id="Boomerang" tvg-logo="https://www.dropbox.com/s/3prhozbv08u7ic1/Boomerang.png?dl=1",Boomerang
+http://192.168.10.1:4022/udp/225.1.1.138:30120
+#EXTINF:-1 group-title="Kid" tvg-id="Disney Junior" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AADTnHBLDhHEaO826tYHvcWra/Disney_Junior.png?dl=1",Disney Junior
+http://192.168.10.1:4022/udp/225.1.1.233:30120
+#EXTINF:-1 group-title="Kid" tvg-id="Disney Channel" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AABDGDIUyEu_t_WnGowd4zHia/Disney_Channel.png?dl=1",Disney Channel
+http://192.168.10.1:4022/udp/225.1.2.158:30120
+#EXTINF:-1 group-title="Kid" tvg-id="Cartoon Network" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAA0kpQ8Ns6khZZoJ3pMyaKma/Cartoon_Network.png?dl=1",Cartoon Network
+http://192.168.10.1:4022/udp/225.1.2.231:30120
+#EXTINF:-1 group-title="Discovery" tvg-id="Discovery Asia" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AACkFFrah2RrH61k6rJDPqSza/Discovery_Asia.png?dl=1",Discovery Asia
+http://192.168.10.1:4022/udp/225.1.2.223:30120
+#EXTINF:-1 group-title="Discovery" tvg-id="Discovery Channel" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AADq3OTfFbmBv0jPh5-vTdm4a/Discovery_Channel.png?dl=1",Discovery Channel
+http://192.168.10.1:4022/udp/225.1.1.238:30120
+#EXTINF:-1 group-title="Discovery" tvg-id="Da Vinci" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAC5MVeQ5KcHOqUsIMJCZOHIa/Da_Vinci.png?dl=1",Da Vinci
+http://192.168.10.1:4022/udp/225.1.1.197:30120
+#EXTINF:-1 group-title="Discovery" tvg-id="Outdoor Channel HD" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AACHiMKBHPRxCv3wJwEO3yLWa/Outdoor_Channel.png?dl=1",OutDoor Channel
+http://192.168.10.1:4022/udp/225.1.2.215:30120
+#EXTINF:-1 group-title="Quoc Te" tvg-id="Animal planet" tvg-logo="https://www.dropbox.com/s/7o2bdxjk3yiynce/AnimalPlanet.png?dl=1",Animal Planet
+http://192.168.10.1:4022/udp/225.1.1.231:30120
+#EXTINF:-1 group-title="Quoc Te" tvg-id="NGC HD" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAD9gHmBRd9yFka9sV5YtGpWa/Nat_Geographic.png?dl=1",NATIONAL GEOGRAPHIC
+http://192.168.10.1:4022/udp/225.1.2.235:30120
+#EXTINF:-1 group-title="Quoc Te" tvg-id="NWD" tvg-logo="https://www.dropbox.com/s/9944a7tdrgc1991/NGW.png?dl=1",NAT WILD
+http://192.168.10.1:4022/udp/225.1.1.211:30120
+#EXTINF:-1 group-title="Movies" tvg-id="HTVC - Phim" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAB3pVeySOqZG_hs4yzhNBU3a/HTVC_Phim.png?dl=1",HTVC Phim
+http://192.168.10.1:4022/udp/225.1.1.184:30120
+#EXTINF:-1 group-title="Movies" tvg-id="HBO" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAA2BM3-I7qzTE7c9isRJJdia/HBO.png?dl=1",HBO
+http://192.168.10.1:4022/udp/225.1.2.233:30120
+#EXTINF:-1 group-title="Movies" tvg-id="FOX Movies HD" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AADi6sD6kGl_RhICep8P5lEMa/FoxMovies.png?dl=1",Fox Movies
+http://192.168.10.1:4022/udp/225.1.2.239:30120
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://www.dropbox.com/s/t8ns5y9vl7u7u2g/Fox_Family_Movies.png?dl=1",Fox Family Movies
+http://192.168.10.1:4022/udp/225.1.1.140:30120
+#EXTINF:-1 group-title="Movies" tvg-id="FOX Life HD" tvg-logo="https://www.dropbox.com/s/lwwshkrtebxrks7/foxlife.png?dl=1",Foxlife
+http://192.168.10.1:4022/udp/225.1.2.237:30120
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://www.dropbox.com/s/ux25609301qr97w/FX.png?dl=1",FX
+http://192.168.10.1:4022/udp/225.1.1.213:30120
+#EXTINF:-1 group-title="Movies" tvg-id="AXN" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAAe6Dp9Yi68gSFhLfyEBJt-a/AXN.png?dl=1",AXN
+http://192.168.10.1:4022/udp/225.1.2.225:30120
+#EXTINF:-1 group-title="Movies" tvg-id="Kix" tvg-logo="https://www.dropbox.com/s/lmi6y3hde6hz64i/KIXTV.png?dl=1",KIX
+http://192.168.10.1:4022/udp/225.1.2.144:30120
+#EXTINF:-1 group-title="Movies" tvg-id="RED BY HBO" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAAHkmsueCb1vGqfMTd56Mpya/Red_By_HBO.png?dl=1",Red By HBO
+http://192.168.10.1:4022/udp/225.1.1.93:30120
+#EXTINF:-1 group-title="Movies" tvg-id="MAX BY HBO" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAD5rO0HGpZPxLz00Ha7GlCJa/MAX_By_HBO.png?dl=1",CINEMAX
+http://192.168.10.1:4022/udp/225.1.2.86:30120
+#EXTINF:-1 group-title="Quoc Te" tvg-id="unknow" tvg-logo="https://www.dropbox.com/s/wedx0y3akjsgnji/TLC.png?dl=1",TLC
+http://192.168.10.1:4022/udp/225.1.1.236:30120
+#EXTINF:-1 group-title="Movies" tvg-id="FOX" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AADkuCm94a74O6myXnj3Ratja/FOX.png?dl=1",FOXHD
+http://192.168.10.1:4022/udp/225.1.1.51:30120
+#EXTINF:-1 group-title="Movies" tvg-id="HTVC - Thuần Việt" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AADOqISG9RrMLY63l9XvuMJ2a/Thuan_Viet.png?dl=1",Thuan Viet
+http://192.168.10.1:4022/udp/225.1.1.186:30120
+#EXTINF:-1 group-title="Movies" tvg-id="Warner TV HD" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AABmMoIYtAUNQvoNTLYnAk_Ga/WARNER_TV.png?dl=1",Warner Bros TV
+http://192.168.10.1:4022/udp/225.1.1.139:30120
+#EXTINF:-1 group-title="Movies" tvg-id="unknow" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AABQ4QmjzKIETIOkWAYjZ1h9a/BTV4.png?dl=1",iMovieTV
+http://192.168.10.1:4022/udp/225.1.1.30:30120
+#EXTINF:-1 group-title="VTC" tvg-id="VTC4" tvg-logo="https://www.dropbox.com/s/xd6pwdkwofhx9qi/VTC4.png?dl=1",VTC4
+http://192.168.10.1:4022/udp/225.1.2.200:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="Du lịch & Cuộc sống HD" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AABX1U03oZuqh_8CoL-gVdCSa/Du_Lich_CS.png?dl=1",HTV Du Lich
+http://192.168.10.1:4022/udp/225.1.1.166:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="HTV2" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AACPolCJJwknCWLWor2SethAa/HTV2.png?dl=1",HTV2
+http://192.168.10.1:4022/udp/225.1.1.193:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="HTVC - Phụ Nữ" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AACkVU5mJmeonspGq6knM8IZa/Phu_Nu.png?dl=1",Phu Nu
+http://192.168.10.1:4022/udp/225.1.1.171:30120
+#EXTINF:-1 group-title="INFO" tvg-id="" tvg-logo="https://www.dropbox.com/s/gjah7vppko1gz1n/HTVC_Plus.png?dl=1",HTVC+Channel
+http://192.168.10.1:4022/udp/225.1.1.181:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="HTV7" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AACBXcMbGxvDrPA4gL7J43Lsa/HTV7.png?dl=1",HTV7
+http://192.168.10.1:4022/udp/225.1.1.192:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="HTV9" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AACxIj04os3cg4KOsUfmKKgua/HTV9.png?dl=1",HTV9
+http://192.168.10.1:4022/udp/225.1.1.190:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="HAI-PHONG" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AABmhX0jTpkf8onjOKHKGMn2a/Hai_Phong.png?dl=1",Hai Phong
+http://192.168.10.1:4022/udp/225.1.1.44:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="TH AN GIANG" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AABedezaMdJZQfFIxvk7pibaa/An_Giang.png?dl=1",An Giang
+http://192.168.10.1:4022/udp/225.1.2.173:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="TH VĨNH LONG 1 - THVL1" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAAZPsO7ecltDl0s4VaYWaDWa/THVL1.png?dl=1",THVL1
+http://192.168.10.1:4022/udp/225.1.1.155:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="TH VĨNH LONG 2 - THVL2" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAD5wuq-FopmkW2CE2Vc6cV4a/THVL2.png?dl=1",THVL2
+http://192.168.10.1:4022/udp/225.1.1.154:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="unknow" tvg-logo="https://www.dropbox.com/s/eatxib0olgraxd9/THVL3.png?dl=1",THVL3
+http://192.168.10.1:4022/udp/225.1.1.235:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="unknow" tvg-logo="https://www.dropbox.com/s/jost88mw6qebcd1/THVL4.png?dl=1",THVL4
+http://192.168.10.1:4022/udp/225.1.2.25:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="DONG-THAP" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAA5rBYC7iR3BwOiuZW7r47Aa/THDT.png?dl=1",THDT
+http://192.168.10.1:4022/udp/225.1.1.163:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="unknow" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AACe9a5dfDDmC_rNSNBcRkAga/Binh_Dinh.png?dl=1",Binh Dinh
+http://192.168.10.1:4022/udp/225.1.1.40:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="unknow" tvg-logo="https://www.dropbox.com/s/53z8wm6y27hbwck/HGTV.png?dl=1",HGTV
+http://192.168.10.1:4022/udp/225.1.1.157:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="unknow" tvg-logo="https://www.dropbox.com/s/74ek22f0ndwsf0o/thgl.png?dl=1",THGL
+http://192.168.10.1:4022/udp/225.1.2.176:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="unknow" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AADIotF68nN5kkKNHQ-F0rBha/PhuTho.png?dl=1",Phu Tho
+http://192.168.10.1:4022/udp/225.1.2.165:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="unknow" tvg-logo="https://www.dropbox.com/s/y41esqytqourr2q/PTP.png?dl=1",PTP
+http://192.168.10.1:4022/udp/225.1.2.58:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="unknow" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AADP1OTiaNUcpjW-EfbYLR1La/AVG.png?dl=1",An Vien
+http://192.168.10.1:4022/udp/225.1.2.189:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="unknow" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAC2e3D7YHbbBiouk17Dl7k_a/BTV1.png?dl=1",BTV1
+http://192.168.10.1:4022/udp/225.1.1.150:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="unknow" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAD4tKNrWstPTOqHWY4z4NRHa/BTV2.png?dl=1",BTV2
+http://192.168.10.1:4022/udp/225.1.1.149:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="HN" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AADPryv-89cRa9vYKC8tTZNWa/HaNoi1.png?dl=1",Ha Noi 1
+http://192.168.10.1:4022/udp/225.1.2.186:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="unknow" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AACgEGNNEhHEhJ7cgWj4Ycsta/HaNoi2.png?dl=1",Ha Noi 2
+http://192.168.10.1:4022/udp/225.1.1.125:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="unknow" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AACRG30mPiCLPg1vgWiOXSOca/DRT2.png?dl=1",Da Nang
+http://192.168.10.1:4022/udp/225.1.1.146:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="unknow" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AABP0rguIWRgLPW9bENj3Lkja/BRT.png?dl=1",Ba Ria
+http://192.168.10.1:4022/udp/225.1.2.175:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="unknow" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAAr2jNdf-i4fsSTXb8ErCW8a/TN1.png?dl=1",Thai Nguyen
+http://192.168.10.1:4022/udp/225.1.2.179:30120
+#EXTINF:-1 group-title="Dia Phuong" tvg-id="unknow" tvg-logo="https://www.dropbox.com/s/byfif5ewv60s1ol/ttv11.png?dl=1",TTV11
+http://192.168.10.1:4022/udp/225.1.1.130:30120
+#EXTINF:-1 group-title="VTV" tvg-id="VTV1" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAC45oE3xtrlCyXA_Dpt6RExa/VTV1.png?dl=1",VTV1
+http://192.168.10.1:4022/udp/225.1.2.249:30120
+#EXTINF:-1 group-title="VTV" tvg-id="VTV2 HD" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AABZ1CyOALU_JA8Ez5imRa5Xa/VTV2.png?dl=1",VTV2
+http://192.168.10.1:4022/udp/225.1.2.13:30120
+#EXTINF:-1 group-title="VTV" tvg-id="VTV3 HD" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AABhm-avCTHFAinxUgjXVk2sa/VTV3.png?dl=1",VTV3
+http://192.168.10.1:4022/udp/225.1.2.247:30120
+#EXTINF:-1 group-title="VTV" tvg-id="VTV4" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AADZFj29KwlIGioMmdm_9NGKa/VTV4.png?dl=1",VTV4
+http://192.168.10.1:4022/udp/225.1.2.20:30120
+#EXTINF:-1 group-title="VTV" tvg-id="VTV5 Tây Nguyên" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AABPmxTJkaT1-6FvTiqP7vpGa/VTV5.png?dl=1",VTV5
+http://192.168.10.1:4022/udp/225.1.1.131:30120
+#EXTINF:-1 group-title="VTV" tvg-id="VTV7" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AACzqGC9STzf2wGoIpzFX1Kza/VTV7.png?dl=1",VTV7
+http://192.168.10.1:4022/udp/225.1.2.96:30120
+#EXTINF:-1 group-title="VTV" tvg-id="VTV8" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AACDOhZVVz6ng8G06ij6FjfBa/VTV8.png?dl=1",VTV8
+http://192.168.10.1:4022/udp/225.1.2.166:30120
+#EXTINF:-1 group-title="VTV" tvg-id="VTV9" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AADApPe7nSAF-ooP7TE8tjEBa/VTV9.png?dl=1",VTV9
+http://192.168.10.1:4022/udp/225.1.1.128:30120
+#EXTINF:-1 group-title="Quoc Te" tvg-id="Blue Ant Entertainment" tvg-logo="https://www.dropbox.com/s/vgls1o4an99r2j2/BlueAntEntertainment.png?dl=1",Blue Ant Entertainment
+http://192.168.10.1:4022/udp/225.1.1.203:30120
+#EXTINF:0 group-title="Quoc Te" tvg-id="Blue Ant Extreme" tvg-logo="https://www.dropbox.com/s/pwlbzr1wxz36cx6/Blue%20Ant%20Extreme.png?dl=1",Blue Ant Extreme
+http://192.168.10.1:4022/udp/225.1.1.204:30120
+#EXTINF:-1 group-title="VTC" tvg-id="VTC1" tvg-logo="https://www.dropbox.com/s/59op3xgyyhocv1t/VTC1.png?dl=1",VTC1
+http://192.168.10.1:4022/udp/225.1.2.254:30120
+#EXTINF:-1 group-title="VTC" tvg-id="VTC3" tvg-logo="https://www.dropbox.com/s/a7py0gpj7ff81wh/VTC3_HD_3.png?dl=1",VTC3
+http://192.168.10.1:4022/udp/225.1.2.251:30120
+#EXTINF:-1 group-title="VTC" tvg-id="VTC13" tvg-logo="https://www.dropbox.com/s/y44l4uskjpdissv/VTC13.png?dl=1",VTC13
+http://192.168.10.1:4022/udp/225.1.2.250:30120
+#EXTINF:-1 group-title="VTC" tvg-id="VTC14" tvg-logo="https://www.dropbox.com/s/fx26y0f4nktbsjq/VTC14HD.png?dl=1",VTC14
+http://192.168.10.1:4022/udp/225.1.2.88:30120
+#EXTINF:-1 group-title="VTC" tvg-id="VTC16" tvg-logo="https://www.dropbox.com/s/q3z78gaeapjm7pn/VTC16_HD.PNG?dl=1",VTC16
+http://192.168.10.1:4022/udp/225.1.2.190:30120
+#EXTINF:-1 group-title="MyTV" tvg-id="VOV1" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAAzjvABoG9BK_L5ojGhfuMra/VOV.png?dl=1",VOV
+http://192.168.10.1:4022/udp/225.1.2.171:30120
+#EXTINF:-1 group-title="INFO" tvg-id="ANTV" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AABcV95jW1lhJ4Ngin_CW4eEa/ANTV.png?dl=1",ANTV
+http://192.168.10.1:4022/udp/225.1.2.169:30120
+#EXTINF:-1 group-title="INFO" tvg-id="TH Nhân Dân" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AACS13dXqgkAd91zUe_H-g6wa/Nhan_Dan.png?dl=1",Nhan Dan
+http://192.168.10.1:4022/udp/225.1.1.91:30120
+#EXTINF:-1 group-title="INFO" tvg-id="TTXVN" tvg-logo="https://www.dropbox.com/s/glmucw3b64ckgeg/Vnews.png?dl=1",V News
+http://192.168.10.1:4022/udp/225.1.1.43:30120
+#EXTINF:-1 group-title="INFO" tvg-id="Quốc Phòng Việt Nam" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AADVQepbz8NewQU7yo_zMX4pa/QPVN.png?dl=1",QPVN
+http://192.168.10.1:4022/udp/225.1.2.217:30120
+#EXTINF:-1 group-title="INFO" tvg-id="Quốc Hội Việt Nam" tvg-logo="https://www.dropbox.com/s/jm65dd5g05cro9w/Quoc_Hoi.png?dl=1",QUOCHOI
+http://192.168.10.1:4022/udp/225.1.2.148:30120
+#EXTINF:-1 group-title="INFO" tvg-id="FBNC HD" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AADVBgM6tO89pF0UiiusXRNpa/FBNC.png?dl=1",FBNC
+http://192.168.10.1:4022/udp/225.1.1.182:30120
+#EXTINF:-1 group-title="INFO" tvg-id="" tvg-logo="https://www.dropbox.com/s/us290b0fqrum3mq/travel.png?dl=1",The Ocean Resort
+http://192.168.10.1:4022/udp/225.1.1.121:30120
+#EXTINF:-1 group-title="INFO" tvg-id="" tvg-logo="https://www.dropbox.com/s/us290b0fqrum3mq/travel.png?dl=1",The Mira Hotel
+http://192.168.10.1:4022/udp/225.1.1.123:30120
+#EXTINF:-1 group-title="Music" tvg-id="Channel V HD" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AACwDALUZtlsTvB-4os3DiH1a/Channel_V_.png?dl=1",[V] Channel
+http://192.168.10.1:4022/udp/225.1.1.188:30120
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://www.dropbox.com/s/yeccsxsfqkwasnj/MTV.png?dl=1",MTV
+http://192.168.10.1:4022/udp/225.1.1.245:30120
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AABUkGjRLQ0C-nM-30pxOm-Ga/StudioBoxChoi.png?dl=1",StudioBoxChoi
+http://192.168.10.1:4022/udp/225.1.1.26:30120
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAA5N_qTK1urQSFig2CPk5dVa/StudioBoxXem.png?dl=1",StudioBoxXem
+http://192.168.10.1:4022/udp/225.1.1.96:30120
+#EXTINF:-1 group-title="Quoc Te" tvg-id="Asian Food Channel" tvg-logo="https://www.dropbox.com/s/syz8xbf06qp2jol/afn.png?dl=1",AFN
+http://192.168.10.1:4022/udp/225.1.1.198:30120
+#EXTINF:-1 group-title="Quoc Te" tvg-id="DW" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAD5271_3OHd6g-xO3OTp41ea/DW.png?dl=1",DW
+http://192.168.10.1:4022/udp/225.1.1.46:30120
+#EXTINF:-1 group-title="Quoc Te" tvg-id="Fashion TV HD" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AADL71bVPQyVLefo8nhIIvJpa/FTV.png?dl=1",FashionTV
+http://192.168.10.1:4022/udp/225.1.2.227:30120
+#EXTINF:-1 group-title="Quoc Te" tvg-id="unknow" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AACWekYwsCxIdIZz9NUPMABia/NHK.png?dl=1",NHK WORLD
+http://192.168.10.1:4022/udp/225.1.1.47:30120
+#EXTINF:-1 group-title="Movies" tvg-id="Cinema World HD" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAD2TKQMQdfJ-xXAxgahKSu5a/CINEMA_WORLD.png?dl=1",CINEMA WORLD
+http://192.168.10.1:4022/udp/225.1.1.142:30120
+#EXTINF:-1 group-title="Quoc Te" tvg-id="CNN" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AADv7uzKYjEqoj5zwpiXm2dVa/CNN.png?dl=1",CNN
+http://192.168.10.1:4022/udp/225.1.1.242:30120
+#EXTINF:-1 group-title="Quoc Te" tvg-id="BBC EARTH" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAAEzAXb6AYMxzy7P7-86GAka/BBC.png?dl=1",BBC Earth
+http://192.168.10.1:4022/udp/225.1.2.24:30120
+#EXTINF:-1 group-title="VTV" tvg-id="VTV6 HD" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AADH9hXgBe1TCYWlldeSGZPya/VTV6.png?dl=1",VTV6
+http://192.168.10.1:4022/udp/225.1.2.245:30120
+#EXTINF:-1 group-title="Sport" tvg-id="Fox Sport" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AADUg30HNlzkmFS1JUBe-1Hpa/FoxSports.png?dl=1",Fox Sports
+http://192.168.10.1:4022/udp/225.1.2.229:30120
+#EXTINF:-1 group-title="Sport" tvg-id="FOX SPORTS 2" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AAByD0uAA34z50uDh9WMR4yJa/Fox_Sports2.png?dl=1",Fox Sports 2
+http://192.168.10.1:4022/udp/225.1.1.141:30120
+#EXTINF:-1 group-title="Sport" tvg-id="FOXSPORTS 3" tvg-logo="https://www.dropbox.com/s/zbiihf3djohkrkc/Fox_Sports_3.png?dl=1",Fox Sports 3
+http://192.168.10.1:4022/udp/225.1.2.242:30120
+#EXTINF:-1 group-title="Sport" tvg-name="Viasat Fotball" tvg-id="" tvg-logo="https://www.dropbox.com/sh/je872ii04ct3j94/AABoMhLF-zz_AOF9ZC5lABrva/PL_Info.png?dl=1",Premier League Info
+http://192.168.10.1:4022/udp/225.1.2.252:30120
